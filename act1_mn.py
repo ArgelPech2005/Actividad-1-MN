@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """   Autor:
    Argel Jesus Pech Manrique
    argelpech098@gmail.com
